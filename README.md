@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Saharsh Mehrotra</h1>
 <h3 align="center">A passionate AIML and Data Science Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saharshmehrotra&label=Profile%20views&color=0e75b6&style=flat" alt="saharshmehrotra" /> </p>
+![](https://github.com/saharshmehrotra/saharshmehrotra/blob/main/dino.gif)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saharshmehrotra&label=Profile%20views&color=0e75b6&style=flat" alt="saharshmehrotra" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
