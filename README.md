@@ -2,9 +2,6 @@
 #### I'm an AI and Data Science Aspirant
 Enthusiastic and self-driven B.Tech student specializing in Artificial Intelligence and Machine Learning. 
 
-Skills: Python / Java / C 
-
-
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/saharshmehrotra)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/saharsh-mehrotra-26284025b//)  
 
