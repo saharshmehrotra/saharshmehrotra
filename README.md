@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saharsh Mehrotra</h1>
-<h3 align="center">A passionate AIML and Data Science Enthusiast</h3>
+<h3 align="center">AIML and Data Science Enthusiast</h3>
 
 ![](https://github.com/saharshmehrotra/saharshmehrotra/blob/main/dino.gif)
 
