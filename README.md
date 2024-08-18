@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saharsh Mehrotra</h1>
 <h3 align="center">AIML and Data Science Enthusiast</h3>
 
-![](https://github.com/saharshmehrotra/saharshmehrotra/blob/main/dino.gif)
+<!--- ![](https://github.com/saharshmehrotra/saharshmehrotra/blob/main/dino.gif) -->
 
 
 - 🔭 I’m currently working on **LLMs and Gen AI**
